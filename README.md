@@ -19,11 +19,14 @@ Buona analisi e buon lavoro!
 * Inversione di una stringa.
 * Verifica se una stringa è palindroma.
 * Troncamento di una stringa a una lunghezza massima specificata.
-* Conteggio delle occorrenze di ciascun carattere in una stringa.
+* Conteggio delle occorrenze di ciascun carattere in una stringa. 
 
 ## Installazione e Avvio
 
 *(Questa sezione dovrà essere completata dallo studente come parte dell'Esercizio 1, includendo i comandi per installare le dipendenze ed eseguire l'applicazione e i test).*
+
+### Clonare la git repository:  
+
 
 ---
 
