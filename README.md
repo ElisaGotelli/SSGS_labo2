@@ -36,4 +36,11 @@ Questo progetto fornisce una base per una semplice Command-Line Interface (CLI) 
   npm test
 ```
 
-Buon Utilizzo! 
+Buon Utilizzo!
+
+##PROBLEMA!: 
+vi sono due cartelle workflow in .github: 
+quella che funziona è chiamata 'workflows'
+l'altra invece è stata creata come da esercizio ma ha il nome errato 
+Ci scusiamo per l'inconveniente!
+
