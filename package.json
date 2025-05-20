@@ -1,12 +1,26 @@
 {
-  "name": "labo-string",
+  "name": "SSGS_labo2",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Una command line interface che offre diverse utilità per la manipolazione di stringhe",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --coverage"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["stringa", "palindroma", "inversione", "troncamento", "caratteri", "Node.js", "jest", "pipeline"],
+  "author": "ElisaGotelli",
+  "license": "ISC", 
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElisaGotelli/SSGS_labo2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ElisaGotelli/SSGS_labo2/issues"
+  },
+  "homepage": "https://github.com/ElisaGotelli/SSGS_labo2",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
